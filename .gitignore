@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local settings
+.vscode/
